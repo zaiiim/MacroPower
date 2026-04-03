@@ -1,129 +1,132 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left">:wave: Hello Everyone
+
+<hi> 👋 I am Zaiiim
+
+<h3 align="left">Cloud Platform Engineer | Infrastructure Automation | Kubernetes (AKS)</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/Zaiim">
+    <img src="https://komarev.com/ghpvc/?username=Zaiim&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/Zaiim?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Zaiim?style=flat&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/colvinjm">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://jacobcolvin.com">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaiim&show_icons=true&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=ffffff&bg_color=0d1117" alt="Zaiim's GitHub Stats" align="right" width="45%" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+## 💼 What I Do
 
-<br>
+- ☁️ **Cloud Platform Engineering**: Design, implement, and maintain Azure-based platforms supporting enterprise workloads across Dev/Test/Prod
+- 🚀 **CI/CD Automation**: Build pipelines using **Azure DevOps, GitHub Actions, GitLab CI, Jenkins** for automated build, test, security scanning & deployment
+- 📦 **Infrastructure as Code**: Terraform, ARM, Bicep, Pulumi, Ansible for repeatable, auditable infrastructure provisioning
+- 🐳 **Container Orchestration**: Manage **AKS clusters** (node pools, scaling, upgrades) + Docker + Helm + Dapr-based Azure Container Apps
+- 📊 **Observability**: Azure Monitor, Log Analytics, Application Insights dashboards & alerting
+- 🔧 **Scripting**: PowerShell, Bash, Azure CLI for operational automation
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+## 🌱 Current Focus
 
-> Tools, languages, and other things that I like to work with.
+- 🔭 Building: **GitOps workflows with ArgoCD & Flux**
+- 📚 Learning: **Advanced Kubernetes patterns & service mesh (Istio)**
+- 🏗️ Homelab: **High-availability K3s cluster with Prometheus stack**
 
-<table>
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+<table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/>
+      <br/>Azure
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="K8s"/>
+      <br/>AKS/K8s
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+      <br/>Docker
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform"/>
+      <br/>Terraform
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible"/>
+      <br/>Ansible
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins"/>
+      <br/>Jenkins
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions"/>
+      <br/>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="48" height="48" alt="Azure DevOps"/>
+      <br/>Azure DevOps
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana"/>
+      <br/>Grafana
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus"/>
+      <br/>Prometheus
     </td>
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+### Scripting & Languages
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br/>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
+      <br/>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/>
+      <br/>PowerShell
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go"/>
+      <br/>Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+      <br/>TypeScript
+    </td>
+  </tr>
+</table>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+## 📈 Key Metrics I've Improved
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+- ⚡ **Reduced MTTR** through proactive monitoring & automated incident response
+- 🚀 **Improved system reliability** & high availability for enterprise workloads
+- 🤝 **Cross-functional collaboration** with dev, QA, security & business stakeholders in Agile environments
+- 📋 **Technical escalation point** for platform automation & incident management
 
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+## 📫 Let's Connect
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+- 💬 Ask me about: **Azure, AKS, Terraform, CI/CD pipelines, or homelabbing**
+- 📧 Reach me: **[jacobcolvin.com]** or open an **[issue]**
+- 🔗 Connect on **[LinkedIn]** for professional opportunities
 
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+<!-- Links -->
+[issue]: https://github.com/Zaiim/Zaiim/issues
+[LinkedIn]: https://www.linkedin.com/in/faisal-b-09a27515a/
